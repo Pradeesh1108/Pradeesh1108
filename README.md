@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine learning, Problem solving skills, Programming and data structures using python**
 
-- 📫 How to reach me **pradeeshsivaprakasam@gmail.com**
-
 - ⚡ Fun fact **It's all 0's and 1's**
 
 <h3 align="left">Connect with me:</h3>
