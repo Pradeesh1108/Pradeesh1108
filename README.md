@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeesh</h1>
-<h3 align="center">A passionate machine learning student from coimbatore...</h3>
+<h3 align="center">A passionate machine learning student...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeesh1108&label=Profile%20views&color=0e75b6&style=flat" alt="pradeesh1108" /> </p>
 
