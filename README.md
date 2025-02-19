@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeesh1108&label=Profile%20views&color=0e75b6&style=flat" alt="pradeesh1108" /> </p>
 
-- 🔭 I’m currently working on **Machine learning and Neural Network Projects**
+- 🔭 I’m currently working on **Machine learning and LLMs**
 
-- 🌱 I’m currently learning **Machine learning algorithms, Problem solving skills, Programming and data structures using C**
+- 🌱 I’m currently learning **Machine learning algorithms, Problem solving skills, Programming and data structures**
 
 - ⚡**It's all 0's and 1's**
 
