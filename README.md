@@ -23,4 +23,4 @@
 " /></a></p><br><br>
 
 
-![snake gif](https://github.com/Pradeesh1108/Pradeesh1108/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Pradeesh1108/Pradeesh1108/blob/output/github-contribution-grid-snake.gif)
