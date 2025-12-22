@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeesh1108&label=Profile%20views&color=0e75b6&style=flat" alt="pradeesh1108" /> </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="50" height="50" />
+</div>
+
 - 🔭 I’m currently working on **Machine learning and LLMs**
 
 - 🌱 I’m currently learning **Machine learning algorithms, Problem solving skills, Programming and data structures**
